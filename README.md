@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Trabalho Prático: Shiny
+#Trabalho Prático: Shiny
 Disciplina: ATD [MEGAF]
 Docente: Nuno Lavado - nlavado@isec.pt
 
