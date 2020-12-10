@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+################################################################################
+# Trabalho Prático: Shiny                                                      #
+# Disciplina: ATD [MEGAF]                                                      #
+# Docente: Nuno Lavado - nlavado@isec.pt                                       #
+#                                                                              #
+# Grupo:  João Gonçalves  [2020149226]  - a2020149226@isec.pt                  #
+#         Luís Pato       [2005009772]  - a21150211@isec.pt                    #
+#         Samuel Martinho [2006005673]  - a21170106@isec.pt                    #
+#                                                                              #
+# Data:   2020/11/21      Data última revisão:  2020/11/25 - LP                #
+#                                                                              #
+################################################################################
