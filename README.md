@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 #### Data:
 		2020/11/21
 #### Data última revisão: 
-		2020/11/25 - LP
+		2021/01/13 - JG, LP, SM
+#### Versão: 
+		janeiro, 2021
                                                              
 
