@@ -17,21 +17,34 @@ Here are some ideas to get you started:
 # Trabalho Prático: Shiny
 #### Docente:
 		Nuno Lavado - nlavado@isec.pt
-### Disciplina: 
+#### Disciplina: 
 		Análise e Tratamento de Dados
-### Curso: 
+#### Curso: 
 		Mestrado em Engenharia e Gestão de Ativos Físicos
 
-### Bibliotecas a instalar no R: 
+
+#### Bibliotecas a instalar no R: 
 		install.packages(shiny)
-                install.packages(shinyjs)
-                install.packages(shinyFiles)
-                install.packages(gdata)
-                install.packages(leaflet)
-                install.packages(dplyr)
+		install.packages(shinyjs)
+		install.packages(shinyFiles)
+		install.packages(gdata)
+		install.packages(leaflet)
+		install.packages(dplyr)
+#### Bibliotecas no R: 
+		library(shiny)
+		library(shinyjs)
+		library(shinyFiles)
+		library(gdata)
+		library(leaflet)
+		library(dplyr)
+#### Executar na consola do R: 
+		shiny::runGist("2883dc8ad9d89df3bd3eb5a9949f8822")
+
+#### Executar num browser: 
+		https://atd-shiny.shinyapps.io/atd-shiny_20210100/
 
 
-#### Grupo:
+### Créditos:
 		João Gonçalves  [2020149226]  - a2020149226@isec.pt
 		Luís Pato       [2005009772]  - a21150211@isec.pt
 		Samuel Martinho [2006005673]  - a21170106@isec.pt
