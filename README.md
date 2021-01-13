@@ -15,10 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Trabalho Prático: Shiny
-### Disciplina: 
-		ATD [MEGAF]
 #### Docente:
 		Nuno Lavado - nlavado@isec.pt
+### Disciplina: 
+		Análise e Tratamento de Dados
+### Curso: 
+		Mestrado em Engenharia e Gestão de Ativos Físicos
+
+### Bibliotecas a instalar no R: 
+		install.packages(shiny)
+                install.packages(shinyjs)
+                install.packages(shinyFiles)
+                install.packages(gdata)
+                install.packages(leaflet)
+                install.packages(dplyr)
+
+
 #### Grupo:
 		João Gonçalves  [2020149226]  - a2020149226@isec.pt
 		Luís Pato       [2005009772]  - a21150211@isec.pt
