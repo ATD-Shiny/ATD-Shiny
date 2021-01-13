@@ -1,0 +1,501 @@
+city;lat;lng;country;population
+Tokyo;35.69;139.69;Japan;37 977 000
+Jakarta;-6.21;106.85;Indonesia;34 540 000
+Delhi;28.66;77.23;India;29 617 000
+Mumbai;18.97;72.83;India;23 355 000
+Manila;14.6;120.98;Philippines;23 088 000
+Shanghai;31.17;121.47;China;22 120 000
+São Paulo;-23.55;-46.63;Brazil;22 046 000
+Seoul;37.58;127;Korea, South;21 794 000
+Mexico City;19.43;-99.13;Mexico;20 996 000
+Guangzhou;23.13;113.26;China;20 902 000
+Beijing;39.91;116.39;China;19 433 000
+Cairo;30.06;31.24;Egypt;19 372 000
+New York;40.69;-73.92;United States;18 713 220
+Kolkata;22.54;88.34;India;17 560 000
+Moscow;55.76;37.62;Russia;17 125 000
+Bangkok;13.75;100.52;Thailand;17 066 000
+Buenos Aires;-34.6;-58.38;Argentina;16 157 000
+Shenzhen;22.54;114.05;China;15 929 000
+Dhaka;23.72;90.4;Bangladesh;15 443 000
+Lagos;6.45;3.4;Nigeria;15 279 000
+Istanbul;41.01;28.96;Turkey;15 154 000
+Osaka;34.69;135.5;Japan;14 977 000
+Karachi;24.86;67.01;Pakistan;14 835 000
+Bangalore;12.97;77.6;India;13 707 000
+Tehran;35.7;51.42;Iran;13 633 000
+Kinshasa;-4.33;15.31;Congo (Kinshasa);13 528 000
+Ho Chi Minh City;10.82;106.63;Vietnam;13 312 000
+Los Angeles;34.11;-118.41;United States;12 750 807
+Rio de Janeiro;-22.91;-43.2;Brazil;12 272 000
+Nanyang;33;112.53;China;12 010 000
+Chennai;13.08;80.28;India;11 324 000
+Chengdu;30.66;104.07;China;11 309 000
+Lahore;31.55;74.34;Pakistan;11 021 000
+Paris;48.86;2.35;France;11 020 000
+London;51.51;-0.13;United Kingdom;10 979 000
+Linyi;35.06;118.34;China;10 820 000
+Tianjin;39.15;117.21;China;10 800 000
+Shijiazhuang;38.04;114.51;China;10 784 600
+Baoding;38.87;115.48;China;10 700 000
+Zhoukou;33.63;114.64;China;9 901 000
+Lima;-12.05;-77.03;Peru;9 848 000
+Hyderabad;17.37;78.47;India;9 746 000
+Bogotá;4.61;-74.07;Colombia;9 464 000
+Weifang;36.72;119.1;China;9 373 000
+Nagoya;35.12;136.93;Japan;9 113 000
+Wuhan;30.59;114.29;China;8 962 000
+Heze;35.23;115.43;China;8 750 000
+Ganzhou;25.83;114.93;China;8 677 600
+Tongshan;34.26;117.19;China;8 669 000
+Chicago;41.84;-87.69;United States;8 604 203
+Handan;36.61;114.49;China;8 499 000
+Luanda;-8.84;13.23;Angola;8 417 000
+Fuyang;32.9;115.8;China;8 360 000
+Kuala Lumpur;3.15;101.7;Malaysia;8 285 000
+Jining;35.4;116.57;China;8 023 000
+Dongguan;23.05;113.75;China;7 981 000
+Hanoi;21.02;105.84;Vietnam;7 785 000
+Pune;18.52;73.86;India;7 764 000
+Chongqing;29.55;106.51;China;7 739 000
+Changchun;43.9;125.2;China;7 674 439
+Zhumadian;32.98;114.03;China;7 640 000
+Ningbo;29.88;121.55;China;7 639 000
+Onitsha;6.17;6.78;Nigeria;7 635 000
+Nanjing;32.05;118.77;China;7 496 000
+Hefei;31.86;117.28;China;7 457 027
+Ahmadabad;23.03;72.58;India;7 410 000
+Hong Kong;22.31;114.19;Hong Kong;7 347 000
+Nantong;31.98;120.89;China;7 282 835
+Khartoum;15.6;32.53;Sudan;7 282 000
+Yancheng;33.39;120.13;China;7 260 240
+Foshan;23.03;113.11;China;7 194 311
+Nanning;22.82;108.32;China;7 153 300
+Hengyang;26.9;112.59;China;7 148 344
+Xi’an;34.27;108.9;China;7 135 000
+Shenyang;41.8;123.43;China;7 105 000
+Tangshan;39.63;118.17;China;7 100 000
+Shaoyang;27.24;111.47;China;7 071 000
+Changsha;28.2;112.97;China;7 044 118
+Santiago;-33.45;-70.67;Chile;7 007 000
+Zhengzhou;34.75;113.66;China;7 005 000
+Zhanjiang;21.2;110.4;China;6 900 000
+Riyadh;24.65;46.71;Saudi Arabia;6 881 000
+Cangzhou;38.3;116.85;China;6 800 000
+Maoming;21.66;110.92;China;6 706 000
+Dar es Salaam;-6.8;39.28;Tanzania;6 698 000
+Huanggang;30.45;114.88;China;6 667 000
+Xinyang;32.13;114.07;China;6 634 000
+Shangrao;28.44;117.96;China;6 579 714
+Luoyang;34.66;112.42;China;6 549 941
+Bijie;27.3;105.29;China;6 537 498
+Yantai;37.4;121.27;China;6 516 900
+Quanzhou;24.91;118.59;China;6 480 000
+Hangzhou;30.25;120.17;China;6 446 000
+Miami;25.78;-80.21;United States;6 445 545
+Kunming;25.04;102.71;China;6 250 000
+Nanchong;30.8;106.08;China;6 183 000
+Zunyi;27.71;106.93;China;6 127 009
+Lu’an;31.75;116.51;China;6 090 000
+Yichun;27.8;114.38;China;6 048 700
+Taizhou;28.66;121.42;China;5 968 838
+Liaocheng;36.45;115.98;China;5 955 300
+Qujing;25.51;103.8;China;5 855 055
+Xiangyang;32.07;112.15;China;5 844 000
+Surat;21.17;72.83;India;5 807 000
+Baghdad;33.35;44.42;Iraq;5 796 000
+Qingdao;36.12;120.4;China;5 775 000
+Singapore;1.3;103.8;Singapore;5 745 000
+Dallas;32.79;-96.77;United States;5 743 938
+Changde;29.04;111.68;China;5 717 200
+Dazhou;31.22;107.49;China;5 693 000
+Suzhou;33.63;116.97;China;5 690 000
+Philadelphia;40.01;-75.13;United States;5 649 300
+Jieyang;23.55;116.36;China;5 634 000
+Nairobi;-1.29;36.82;Kenya;5 545 000
+Nangandao;35.3;113.89;China;5 516 000
+Ankara;39.93;32.85;Turkey;5 503 985
+Tai’an;36.2;117.08;China;5 499 000
+Yulin;22.63;110.15;China;5 487 368
+Dezhou;37.45;116.31;China;5 470 000
+Houston;29.79;-95.39;United States;5 464 251
+Atlanta;33.76;-84.42;United States;5 449 398
+Rangoon;16.8;96.15;Burma;5 430 000
+Toronto;43.74;-79.37;Canada;5 429 524
+Suihua;46.64;126.98;China;5 420 000
+Washington;38.9;-77.02;United States;5 379 184
+Qiqihar;47.34;123.95;China;5 367 003
+Jinhua;29.1;119.65;China;5 361 572
+Saint Petersburg;59.95;30.32;Russia;5 351 935
+Shantou;23.37;116.69;China;5 319 028
+Sydney;-33.87;151.21;Australia;5 312 163
+Weinan;34.5;109.47;China;5 300 000
+Suqian;33.93;118.28;China;5 290 000
+Guadalajara;20.68;-103.35;Mexico;5 253 000
+Suzhou;31.3;120.62;China;5 250 000
+Fuzhou;26.08;119.29;China;5 245 000
+Zhaotong;27.33;103.71;China;5 213 521
+Pudong;31.22;121.54;China;5 187 200
+Yongzhou;26.45;111.6;China;5 180 235
+Belo Horizonte;-19.89;-43.95;Brazil;5 159 000
+Zhangzhou;24.51;117.66;China;5 140 000
+Bozhou;33.86;115.77;China;5 100 000
+Melbourne;-37.81;144.96;Australia;5 078 193
+Nanchang;28.68;115.89;China;5 042 565
+Xianyang;34.35;108.72;China;5 040 000
+Taizhou;32.48;119.9;China;5 031 000
+Abidjan;5.34;-4.03;Côte D’Ivoire;4 980 000
+Surabaya;-7.25;112.74;Indonesia;4 975 000
+Ji’an;27.12;114.98;China;4 956 600
+Mianyang;31.47;104.74;China;4 945 000
+Shaoxing;30;120.58;China;4 912 239
+Alexandria;31.2;29.92;Egypt;4 870 000
+Yuncheng;35.03;111;China;4 860 000
+Pingdingshan;33.74;113.3;China;4 838 000
+Huai’an;33.5;119.13;China;4 799 889
+Xinpu;34.59;119.18;China;4 790 000
+Guilin;25.27;110.28;China;4 747 963
+Huaihua;27.55;109.96;China;4 741 948
+Jiujiang;29.7;116;China;4 728 778
+Anqing;30.5;117.03;China;4 723 000
+Boston;42.32;-71.08;United States;4 688 346
+Huanglongsi;34.79;114.34;China;4 676 159
+Xiaoganzhan;30.93;113.91;China;4 665 000
+Changzhou;31.81;119.97;China;4 592 431
+Barcelona;41.38;2.18;Spain;4 588 000
+Chenzhou;25.8;113.03;China;4 581 778
+Wuxi;31.57;120.28;China;4 580 000
+Zibo;36.78;118.05;China;4 530 597
+Jiaxing;30.75;120.75;China;4 501 657
+Dalian;38.91;121.61;China;4 480 000
+Yangzhou;32.39;119.44;China;4 459 000
+Harbin;45.75;126.63;China;4 458 000
+Yibin;28.76;104.64;China;4 456 000
+Jiangmen;22.58;113.08;China;4 448 871
+Johannesburg;-26.2;28.04;South Africa;4 434 827
+Meizhou;24.3;116.12;China;4 378 800
+Chifeng;42.27;118.92;China;4 376 600
+Casablanca;33.6;-7.62;Morocco;4 370 000
+Guiyang;26.58;106.71;China;4 365 000
+Langfang;39.52;116.7;China;4 358 839
+Zhangjiakou;40.81;114.88;China;4 345 491
+Izmir;38.41;27.14;Turkey;4 320 519
+Linfen;36.08;111.51;China;4 316 610
+Wenzhou;28;120.66;China;4 310 000
+Monterrey;25.67;-100.3;Mexico;4 295 000
+Luzhou;28.89;105.44;China;4 291 000
+Jiangguanchi;34.02;113.82;China;4 289 000
+Neijiang;29.59;105.06;China;4 238 000
+Phoenix;33.57;-112.09;United States;4 219 697
+Yanjiang;30.13;104.64;China;4 217 000
+Yiyang;28.58;112.33;China;4 174 000
+Zhaoqing;23.05;112.47;China;4 151 700
+Hengshui;37.73;115.69;China;4 150 000
+Guigang;23.1;109.61;China;4 118 808
+Xiaoxita;30.71;111.28;China;4 115 000
+Xiamen;24.48;118.08;China;4 110 000
+Chuzhou;32.31;118.31;China;4 110 000
+Fuzhou;27.98;116.36;China;4 047 200
+Amman;31.95;35.93;Jordan;4 007 526
+Jeddah;21.54;39.17;Saudi Arabia;3 976 000
+Sialkot City;32.5;74.53;Pakistan;3 893 672
+Huizhou;23.11;114.42;China;3 875 000
+Qingyuan;23.68;113.05;China;3 874 000
+Zhuzhou;27.84;113.15;China;3 855 609
+Wuhu;31.33;118.36;China;3 842 100
+Hechi;23.1;109.61;China;3 830 000
+Seattle;47.62;-122.32;United States;3 789 215
+Loudi;27.74;112;China;3 785 627
+Binzhou;37.38;118.01;China;3 779 200
+Liuzhou;24.32;109.41;China;3 758 704
+Yokohama;35.43;139.63;Japan;3 748 781
+Baojishi;34.36;107.18;China;3 738 700
+Guang’an;30.47;106.63;China;3 723 000
+Hanzhong;33.08;107.03;China;3 700 000
+Kabul;34.53;69.17;Afghanistan;3 678 034
+Zaozhuang;34.87;117.55;China;3 650 000
+Anshan;41.11;122.99;China;3 645 884
+Berlin;52.52;13.38;Germany;3 644 826
+Deyang;31.13;104.4;China;3 636 000
+Lanzhou;36.06;103.83;China;3 616 163
+Chengde;40.97;117.93;China;3 610 000
+San Francisco;37.76;-122.44;United States;3 592 294
+Puyang;35.76;115.03;China;3 580 000
+Suining;30.51;105.57;China;3 556 000
+Jiaozuo;35.23;113.23;China;3 540 101
+Bengbu;32.94;117.35;China;3 525 000
+Montréal;45.51;-73.56;Canada;3 519 595
+Detroit;42.38;-83.1;United States;3 506 126
+Baicheng;23.9;106.62;China;3 466 758
+Busan;35.1;129.04;Korea, South;3 440 484
+Algiers;36.78;3.06;Algeria;3 415 811
+Qincheng;34.58;105.73;China;3 400 000
+Taiyuan;37.87;112.54;China;3 398 000
+Lucknow;26.85;80.95;India;3 382 000
+Chaoyang;41.58;120.45;China;3 370 000
+Hechi;24.69;108.09;China;3 369 251
+Leshan;29.59;103.76;China;3 364 000
+Yulinshi;38.27;109.74;China;3 328 000
+Siping;43.17;124.36;China;3 300 000
+Madrid;40.42;-3.69;Spain;3 266 126
+Jinan;36.67;116.98;China;3 250 000
+Changzhi;36.2;113.1;China;3 230 000
+Shiyan;32.64;110.78;China;3 228 000
+San Diego;32.83;-117.12;United States;3 220 118
+Faisalabad;31.42;73.08;Pakistan;3 203 846
+Santa Cruz;-17.79;-63.2;Bolivia;3 151 676
+Bazhou;31.86;106.76;China;3 134 000
+Zhongshan;22.53;113.35;China;3 121 275
+Zhenjiang;32.21;119.46;China;3 113 384
+Ürümqi;43.83;87.6;China;3 112 559
+Tongliao;43.62;122.26;China;3 094 600
+Heyuan;23.75;114.69;China;3 093 900
+Tongren;27.72;109.19;China;3 093 204
+Qinzhou;21.95;108.62;China;3 079 721
+Jaipur;26.92;75.87;India;3 073 350
+Xinzhou;38.42;112.72;China;3 067 501
+Addis Ababa;9.03;38.74;Ethiopia;3 041 002
+Giza;29.99;31.21;Egypt;3 021 542
+Meishan;30.06;103.84;China;3 020 000
+Brasília;-15.77;-48.08;Brazil;3 015 268
+Mashhad;36.31;59.6;Iran;3 001 184
+Jinzhou;41.11;121.13;China;3 000 000
+Tieling;42.28;123.84;China;3 000 000
+Shaoguan;24.8;113.59;China;2 997 600
+Shanwei;22.77;115.33;China;2 990 000
+Minneapolis;44.96;-93.27;United States;2 977 172
+Kyiv;50.45;30.52;Ukraine;2 967 000
+Sanaa;15.35;44.2;Yemen;2 957 000
+Quezon City;14.63;121.03;Philippines;2 936 116
+Dingxi;35.58;104.63;China;2 930 000
+Salvador;-12.97;-38.51;Brazil;2 921 087
+Incheon;37.46;126.65;Korea, South;2 913 024
+Ningde;26.67;119.52;China;2 910 000
+Tampa;27.99;-82.45;United States;2 908 063
+Daqing;46.6;125.01;China;2 904 532
+Bursa;40.18;29.07;Turkey;2 901 396
+Putian;25.44;119.01;China;2 900 000
+Birmingham;52.48;-1.9;United Kingdom;2 897 303
+Huzhou;30.87;120.1;China;2 893 542
+Wuzhou;23.48;111.32;China;2 882 200
+Denver;39.76;-104.88;United States;2 876 625
+Rome;41.89;12.48;Italy;2 872 800
+La Paz;-16.49;-68.15;Bolivia;2 867 504
+Pyongyang;39.03;125.73;Korea, North;2 863 000
+Kano;12;8.52;Nigeria;2 828 861
+Omdurman;15.68;32.46;Sudan;2 805 396
+Taichung;24.15;120.67;Taiwan;2 803 894
+Zigong;29.35;104.76;China;2 800 000
+Qinhuangdao;39.94;119.59;China;2 800 000
+Mudanjiang;44.59;129.6;China;2 790 000
+Huludao;40.71;120.84;China;2 787 000
+Kaohsiung;22.62;120.3;Taiwan;2 773 533
+Xiangtan;27.84;112.92;China;2 748 552
+Guayaquil;-2.18;-79.88;Ecuador;2 723 665
+Rizhao;35.42;119.43;China;2 720 000
+Manchester;53.48;-2.25;United Kingdom;2 705 000
+Cawnpore;26.47;80.33;India;2 701 324
+Baotou;40.66;109.83;China;2 700 000
+Nanping;26.64;118.17;China;2 690 000
+Taipei;25.05;121.53;Taiwan;2 684 567
+Longyan;25.09;117.02;China;2 640 000
+Hohhot;40.82;111.66;China;2 635 000
+Ibadan;7.4;3.92;Nigeria;2 628 000
+Chaozhou;23.67;116.63;China;2 620 000
+Longba;33.54;105.35;China;2 614 000
+Antananarivo;-18.94;47.52;Madagascar;2 610 000
+Weihai;37.5;122.1;China;2 596 753
+Santo Domingo;18.48;-69.89;Dominican Republic;2 581 827
+Chattogram;22.34;91.83;Bangladesh;2 581 643
+Xuanzhou;30.95;118.75;China;2 580 000
+Sanming;26.27;117.63;China;2 580 000
+Brooklyn;40.65;-73.95;United States;2 559 903
+Medellín;6.24;-75.57;Colombia;2 529 403
+Brisbane;-27.47;153.03;Australia;2 514 184
+Baoshan;25.12;99.17;China;2 506 491
+Dubai;25.27;55.31;United Arab Emirates;2 502 715
+Luohe;33.58;114.01;China;2 500 000
+Qinbaling;35.73;107.64;China;2 500 000
+Mirzapur;25.15;82.58;India;2 496 970
+Guangyuan;32.44;105.84;China;2 484 122
+Cali;3.44;-76.52;Colombia;2 471 474
+Daegu;35.87;128.6;Korea, South;2 461 002
+Fortaleza;-3.73;-38.53;Brazil;2 452 185
+Guatemala City;14.61;-90.53;Guatemala;2 450 212
+Douala;4.05;9.7;Cameroon;2 446 945
+Yaoundé;3.86;11.52;Cameroon;2 440 462
+Lincang;23.89;100.09;China;2 429 497
+Antalya;36.91;30.7;Turkey;2 426 356
+Lianshan;40.75;120.83;China;2 426 000
+Tashkent;41.3;69.27;Uzbekistan;2 424 100
+Huangshi;30.2;115.03;China;2 419 000
+Huainan;32.48;117.02;China;2 409 000
+Nagpur;21.15;79.08;India;2 405 665
+Dandong;40.12;124.38;China;2 400 000
+Shangzhou;33.87;109.92;China;2 400 000
+Jilin;43.85;126.55;China;2 396 000
+Bandung;-6.95;107.57;Indonesia;2 394 873
+Tijuana;32.53;-117.03;Mexico;2 384 609
+Ghaziabad;28.67;77.42;India;2 381 452
+Bekasi;-6.23;107;Indonesia;2 381 053
+Jiamusi;46.81;130.37;China;2 360 000
+Yangjiang;21.86;111.96;China;2 357 000
+Yuxi;24.35;102.54;China;2 303 518
+Fushun;41.87;123.89;China;2 300 000
+Anshun;26.25;105.93;China;2 297 612
+Accra;5.6;-0.19;Ghana;2 291 352
+Vancouver;49.25;-123.1;Canada;2 264 823
+Tangerang;-6.18;106.63;Indonesia;2 237 006
+Konya;37.87;32.48;Turkey;2 232 374
+Queens;40.75;-73.8;United States;2 230 722
+Adana;37;35.33;Turkey;2 220 125
+Yingkou;40.67;122.23;China;2 220 000
+Sanmenxia;34.77;111.2;China;2 213 000
+Medan;3.67;98.67;Indonesia;2 210 625
+Ma’anshan;31.71;118.36;China;2 202 899
+Indore;22.72;75.85;India;2 201 927
+Pingliang;35.54;106.68;China;2 190 000
+Quzhou;28.95;118.88;China;2 185 000
+Baku;40.37;49.84;Azerbaijan;2 181 800
+Gaoping;30.78;106.13;China;2 174 000
+Huaibei;33.96;116.79;China;2 158 000
+Xining;36.62;101.78;China;2 154 000
+Yan’an;36.6;109.49;China;2 150 000
+Havana;23.14;-82.36;Cuba;2 141 652
+Phnom Penh;11.57;104.92;Cambodia;2 129 371
+Fukuoka;33.59;130.4;Japan;2 128 000
+Mogadishu;2.04;45.34;Somalia;2 120 000
+Jincheng;35.49;112.85;China;2 120 000
+Lishui;28.45;119.92;China;2 116 957
+Qingyang;24.81;118.58;China;2 111 000
+Riverside;33.94;-117.39;United States;2 107 852
+Baltimore;39.31;-76.61;United States;2 106 068
+Las Vegas;36.23;-115.27;United States;2 104 198
+Haiphong;20.8;106.67;Vietnam;2 103 500
+Laibin;23.73;109.23;China;2 099 711
+Rawalpindi;33.6;73.07;Pakistan;2 098 231
+Portland;45.54;-122.65;United States;2 074 775
+Kumasi;6.68;-1.62;Ghana;2 069 350
+Vadodara;22.3;73.2;India;2 065 771
+Perth;-31.95;115.86;Australia;2 059 484
+Puning;23.3;116.16;China;2 055 552
+San Antonio;29.47;-98.53;United States;2 049 293
+Haikou;20.02;110.32;China;2 046 189
+Vishakhapatnam;17.73;83.32;India;2 035 922
+Gaziantep;37.07;37.38;Turkey;2 028 563
+St, Louis;38.64;-90.25;United States;2 024 074
+Minsk;53.9;27.56;Belarus;2 020 600
+Quito;-0.22;-78.51;Ecuador;2 011 388
+Bamako;12.65;-7.99;Mali;2 009 109
+Pingxiang;27.63;113.85;China;2 001 027
+Chongzuo;22.42;107.37;China;1 994 285
+Sanliurfa;37.16;38.79;Turkey;1 985 753
+Kananga;-5.9;22.45;Congo (Kinshasa);1 971 704
+Peshawar;34;71.5;Pakistan;1 970 042
+Sapporo;43.06;141.35;Japan;1 958 756
+Jixi;45.29;130.97;China;1 950 000
+Caracas;10.5;-66.93;Venezuela;1 943 901
+Fuxin;42.01;121.65;China;1 930 000
+Leeds;53.8;-1.55;United Kingdom;1 901 934
+Sacramento;38.57;-121.47;United States;1 898 019
+Blantyre;-15.79;35.01;Malawi;1 895 973
+Wuwei;37.93;102.63;China;1 890 000
+Tainan;22.98;120.18;Taiwan;1 883 831
+Bucharest;44.4;26.08;Romania;1 883 425
+Bhopal;23.25;77.42;India;1 883 381
+Curitiba;-25.43;-49.27;Brazil;1 879 355
+Xiping;40.08;113.3;China;1 873 000
+Asunción;-25.3;-57.63;Paraguay;1 870 000
+Saidu Sharif;34.75;72.36;Pakistan;1 860 310
+Hamburg;53.55;10;Germany;1 841 179
+Vienna;48.21;16.37;Austria;1 840 573
+Aleppo;36.2;37.15;Syria;1 834 093
+Meru;0.05;37.65;Kenya;1 833 000
+Brazzaville;-4.27;15.28;Congo (Brazzaville);1 827 000
+Orlando;28.48;-81.34;United States;1 822 394
+Mersin;36.8;34.62;Turkey;1 814 468
+Almaty;43.25;76.9;Kazakhstan;1 806 833
+Kyoto;35.01;135.77;Japan;1 805 000
+Manaus;-3.1;-60.02;Brazil;1 802 014
+Liaoyang;41.26;123.18;China;1 800 000
+Baiyin;36.54;104.18;China;1 799 000
+San Jose;37.3;-121.85;United States;1 798 103
+Barranquilla;10.96;-74.8;Colombia;1 798 000
+Warsaw;52.22;21.03;Poland;1 790 658
+Shengli;37.45;118.47;China;1 790 000
+Lubumbashi;-11.67;27.46;Congo (Kinshasa);1 786 397
+Shuyangzha;34.13;118.77;China;1 770 000
+Esfahan;32.64;51.67;Iran;1 756 126
+Damascus;33.51;36.29;Syria;1 754 000
+Shangqiu;34.45;115.65;China;1 753 000
+Budapest;47.5;19.04;Hungary;1 752 286
+Heihe;50.25;127.49;China;1 750 000
+Lusaka;-15.42;28.28;Zambia;1 742 979
+Diyarbakir;37.91;40.24;Turkey;1 732 396
+Chinchvad;18.63;73.81;India;1 729 320
+Shuozhou;39.34;112.43;China;1 714 857
+Cleveland;41.48;-81.68;United States;1 710 093
+Vitória;-20.32;-40.37;Brazil;1 704 000
+Pittsburgh;40.44;-79.98;United States;1 703 266
+Mecca;21.42;39.83;Saudi Arabia;1 700 000
+Mosul;36.37;43.12;Iraq;1 694 000
+Austin;30.3;-97.75;United States;1 687 311
+Patna;25.61;85.14;India;1 684 222
+Sanzhou;30.82;108.4;China;1 680 000
+Conakry;9.51;-13.71;Guinea;1 667 864
+Cincinnati;39.14;-84.51;United States;1 662 691
+Kampala;0.31;32.58;Uganda;1 659 600
+Ecatepec;19.61;-99.06;Mexico;1 656 107
+Yushan;31.39;120.98;China;1 651 200
+Makassar;-5.13;119.41;Indonesia;1 651 146
+Newcastle;55.01;-1.66;United Kingdom;1 650 000
+Ludhiana;30.91;75.85;India;1 649 000
+Kansas City;39.12;-94.55;United States;1 636 715
+Davao;7.07;125.6;Philippines;1 632 991
+Zhongli;24.97;121.22;Taiwan;1 632 616
+Depok;-6.39;106.82;Indonesia;1 631 951
+Manhattan;40.78;-73.97;United States;1 628 706
+Rabat;34.03;-6.84;Morocco;1 628 000
+Ouagadougou;12.36;-1.54;Burkina Faso;1 626 950
+Semarang;-6.97;110.42;Indonesia;1 621 384
+Yinchuan;38.48;106.23;China;1 616 000
+Multan;30.2;71.47;Pakistan;1 606 481
+Harare;-17.83;31.05;Zimbabwe;1 606 000
+Chengtangcun;35.08;117.15;China;1 603 659
+Novosibirsk;55.03;82.92;Russia;1 602 915
+Karaj;35.83;50.99;Iran;1 592 492
+Indianapolis;39.78;-86.15;United States;1 588 961
+Jingdezhen;29.29;117.2;China;1 587 477
+Agra;27.18;78.02;India;1 585 705
+Caloocan City;14.65;120.97;Philippines;1 583 978
+Kalyan;19.25;73.16;India;1 576 614
+Puebla;19.03;-98.18;Mexico;1 576 259
+Gujranwala;32.15;74.18;Pakistan;1 569 090
+Benxi;41.29;123.76;China;1 567 000
+Columbus;39.99;-82.99;United States;1 562 009
+Zhuhai;22.28;113.57;China;1 562 000
+Madurai;9.92;78.12;India;1 561 129
+Tabriz;38.08;46.28;Iran;1 558 693
+Jamshedpur;22.8;86.18;India;1 558 000
+Recife;-8.05;-34.88;Brazil;1 555 039
+Maracaibo;10.63;-71.63;Venezuela;1 551 539
+Santiago;19.5;-70.67;Dominican Republic;1 550 753
+Beihai;21.47;109.1;China;1 539 251
+Shuangyashan;46.64;131.15;China;1 530 000
+Kobe;34.69;135.18;Japan;1 522 944
+Charlotte;35.21;-80.83;United States;1 512 923
+Yucheng;29.99;103;China;1 512 000
+Changshu;31.65;120.73;China;1 510 100
+Ximeicun;24.96;118.38;China;1 508 000
+Jianguang;28.2;115.78;China;1 507 402
+Xushan;30.17;121.27;China;1 502 000
+Gwangju;35.17;126.92;Korea, South;1 501 557
+Guiping;23.4;110.08;China;1 496 904
+Nasik;20;73.78;India;1 486 053
+Zhangjiajie;29.13;110.48;China;1 486 000
+Porto Alegre;-30.03;-51.23;Brazil;1 484 941
+Valencia;10.17;-68;Venezuela;1 484 430
+Virginia Beach;36.73;-76.04;United States;1 478 868
+Daejeon;36.35;127.39;Korea, South;1 475 221
+Munich;48.14;11.58;Germany;1 471 508
+Yekaterinburg;56.8356;60.6128;Russia;1468833
